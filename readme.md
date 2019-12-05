@@ -9,26 +9,25 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "送给我",
-        "心爱的小可爱",
+        "心爱的小宝贝",
         "今天是你的生日",
         "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~"
+        "第一个生日",
+        "和你一起看的周杰伦的演唱会",
+        "记忆依然清晰",
+        "要好好吃饭",
+        "要把我家可爱猪猪喂饱",
+        "然后抱回家"
     ],
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        turn_on: "SUPRISE",
+        play: "MUSIC",
+        bannar_coming: "Let's Decorate",
+        balloons_flying: "Fly With Balloons",
+        cake_fadein: "Most Delicious Cake Ever",
+        light_candle: "Light Candle",
+        wish_message: "HAPPY BIRTHDAY",
         story: "A MESSAGE FOR YOU",
     }
 };
@@ -37,13 +36,3 @@ var config = {
 
 ## 截图演示
 <img src="./assets/birthday-demo2.gif"/>
-
-## 知乎使用教程
-[https://zhuanlan.zhihu.com/p/85899661](https://zhuanlan.zhihu.com/p/85899661)
-
-## 结尾
-喜欢的话关注一下[霸都丶傲天](https://github.com/ajlovechina)呗~  \
-定期更新一下爱情网页模板,简历模板,知识笔记,PDF书籍,原创深度技术分享等 :heart:
-
-## 链接
-* [第一期:爱情树 🌴将相爱的时刻永远珍藏 （微信，QQ可完美查看）](https://github.com/AJLoveChina/LoveTree)
